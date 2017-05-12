@@ -8,3 +8,4 @@ This is a NetBeans project that contains code written in JAVA and OpenCV librari
 
 For now this code works only on Linux because it uses linux specific commands to set the conrols.
 
+**For more content like this, check out [my blogs]( https://crazysigma.com/blogs/).**
